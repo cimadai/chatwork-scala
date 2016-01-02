@@ -1,6 +1,8 @@
 chatwork-scala
 ==============
 
+[![Circle CI](https://circleci.com/gh/cimadai/chatwork-scala.svg?style=svg)](https://circleci.com/gh/cimadai/chatwork-scala)
+
 A chatwork client for scala.
 
 ## Usage
